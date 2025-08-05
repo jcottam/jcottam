@@ -1,6 +1,6 @@
 # John Ryan Cottam
 
-**Full Stack Builder | Product-Centric Engineer | Creator of Scalable Web Apps, Dev Tools & Automation Workflows**
+**JavaScript | Python | Generative AI | Automation**
 
 Product-centric full stack engineer who builds at the intersection of engineering, product, and customer success.
 
