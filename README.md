@@ -1,9 +1,27 @@
-👋 Hi, I’m John Ryan Cottam — a product-focused full stack engineer who builds scalable tools, web apps, and automations that solve real-world problems.
+# Hi, I’m John Ryan Cottam
 
-🔧 I’ve developed SDKs, Chrome extensions, customer onboarding systems, and internal tools used across 35,000+ domains. At Amazon and Stripe, I helped enterprise clients launch tailored fintech and adtech solutions.
+**Product-focused full stack engineer** building scalable tools, web apps, and automations that solve real-world problems.
 
-💡 I’m passionate about zero-to-one builds, developer experience, and bridging engineering with product and customer success.
+---
 
-📦 Currently working on side projects under Noteworthy Solutions and JavaScript Johnny — combining code, content, and community.
+## 🚀 What I Do
+- Build SDKs, Chrome extensions, onboarding systems, and internal tools  
+- Design developer experiences that scale across thousands of domains  
+- Bridge engineering, product, and customer success to ship solutions that matter
 
-📍 Based in Atlanta, GA | 🏗️ Building towards solopreneurship | 🤝 Open to product-minded collaborations
+---
+
+## 🧠 Background
+Previously at **Amazon** and **Stripe**, I helped enterprise clients launch tailored fintech and adtech integrations, focusing on multi-party onboarding, international expansion, and scalable architecture.
+
+Currently full-time at **Misfits and Machines (Marketing Architects)**, working across R&D and production systems.
+
+---
+
+## 🌍 Location
+Based in Atlanta, GA  
+Working toward long-term solopreneurship and open to product-minded collaborations
+
+---
+
+### **Build Better. Ship Faster.**
