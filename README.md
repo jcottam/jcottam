@@ -13,6 +13,7 @@ Product-centric full stack engineer building at the intersection of engineering,
 
 ## Background
 At [**Amazon**](https://www.amazon.com), I scaled adtech integrations across 35,000+ domains—reimagining publisher onboarding through SDKs, automation, and developer tools.  
+
 At [**Stripe**](https://stripe.com), I partnered with enterprise clients to design and deliver fintech solutions using Stripe Connect—architecting multi-party onboarding flows and enabling international expansion for complex marketplaces.
 
 Now at [**Misfits and Machines**](https://www.misfitsandmachines.com), I lead a lean R&D team inventing AI-powered products for the next wave of ad tech.
