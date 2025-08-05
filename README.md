@@ -1,27 +1,19 @@
-# Hi, I’m John Ryan Cottam
+# John Ryan Cottam
 
 **Product-focused full stack engineer** building scalable tools, web apps, and automations that solve real-world problems.
 
----
-
-## 🚀 What I Do
+## What I Do
 - Build SDKs, Chrome extensions, onboarding systems, and internal tools  
 - Design developer experiences that scale across thousands of domains  
 - Bridge engineering, product, and customer success to ship solutions that matter
 
----
+## Background
+Previously at [**Amazon**](https://www.amazon.com) and [**Stripe**](https://stripe.com), I helped enterprise clients launch tailored fintech and adtech integrations, focusing on multi-party onboarding, international expansion, and scalable architecture.
 
-## 🧠 Background
-Previously at **Amazon** and **Stripe**, I helped enterprise clients launch tailored fintech and adtech integrations, focusing on multi-party onboarding, international expansion, and scalable architecture.
+Currently at [**Misfits and Machines**](https://www.misfitsandmachines.com), where I lead a nimble R&D team building AI-driven ad tech products.
 
-Currently full-time at **Misfits and Machines (Marketing Architects)**, working across R&D and production systems.
-
----
-
-## 🌍 Location
+## Location
 Based in Atlanta, GA  
 Working toward long-term solopreneurship and open to product-minded collaborations
 
----
-
-### **Build Better. Ship Faster.**
+> Build Better. Ship Faster.
