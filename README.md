@@ -2,16 +2,16 @@
 
 **JavaScript | Python | Generative AI | Automation**
 
-Product-centric full stack engineer who builds at the intersection of engineering, product, and customer success.
+Product-centric full stack engineer building at the intersection of engineering, product, and customer success.
 
-## What I Do
-- Build SDKs, Chrome extensions, onboarding systems, and internal tools  
-- Design developer experiences that scale across thousands of domains  
-- Bridge engineering, product, and customer success to ship solutions that matter
+## What I Do 
+- Design and deliver scalable experiences across thousands of domains  
+- Build SDKs, APIs, browser extensions, onboarding systems, and internal tools  
+- Translate complex problems into simple, shippable solutions that users love
 
 ## Background
-Previously at [**Amazon**](https://www.amazon.com) and [**Stripe**](https://stripe.com), I helped enterprise clients launch tailored fintech and adtech integrations, focusing on multi-party onboarding, international expansion, and scalable architecture.
+At [**Amazon**](https://www.amazon.com) and [**Stripe**](https://stripe.com), I partnered with enterprise clients to architect tailored fintech and adtech solutions—navigating multi-party onboarding, international expansion, and deep integration work.
 
-Currently at [**Misfits and Machines**](https://www.misfitsandmachines.com), where I lead a nimble R&D team building AI-driven ad tech products.
+Now at [**Misfits and Machines**](https://www.misfitsandmachines.com), I lead a lean R&D team inventing AI-powered products for the next wave of ad tech.
 
-> Build Better. Ship Faster.
+> **Build Better. Ship Faster.**
