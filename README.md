@@ -1,6 +1,6 @@
 # John Ryan Cottam
 
-**Product-focused full stack engineer** building scalable tools, web apps, and automations that solve real-world problems.
+**Product-focused full stack engineer** building scalable tools, web apps, and automation workflows that solve problems and deliver impact.
 
 ## What I Do
 - Build SDKs, Chrome extensions, onboarding systems, and internal tools  
