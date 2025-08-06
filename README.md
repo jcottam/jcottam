@@ -2,7 +2,7 @@
 
 **JavaScript | Python | Generative AI | Automation**
 
-Product-centric full stack engineer building at the intersection of engineering, product, and customer success.
+Full Stack Engineer & Product Builder | Creating Scalable Web Solutions & AI-Driven Automation Workflows That Deliver Impact
 
 ## What I Do 
 - Design and deliver scalable experiences across thousands of domains  
