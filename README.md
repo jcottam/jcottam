@@ -2,7 +2,7 @@
 
 **JavaScript | Python | Generative AI | Automation**
 
-Full Stack Engineer & Product Builder | Creating Scalable Web Solutions & AI-Driven Automation Workflows That Deliver Impact
+Full Stack Engineer & Product Builder | Specializing in Generative AI Advertising & Custom Automation Workflows
 
 ## What I Do 
 - Design and deliver scalable experiences across thousands of domains  
