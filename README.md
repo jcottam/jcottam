@@ -16,4 +16,4 @@ At [**Amazon**](https://www.amazon.com), I scaled adtech integrations across 35,
 
 Now at [**Misfits and Machines**](https://www.misfitsandmachines.com), I lead a lean R&D team inventing AI-powered products for the next wave of ad tech.
 
-[![LinkedIn](https://img.shields.io/badge/any_text-you_like-blue)](https://www.linkedin.com/in/jcottam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jcottam)
