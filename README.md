@@ -18,4 +18,4 @@ Now at [**Misfits and Machines**](https://www.misfitsandmachines.com), I lead a 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/jcottam)
 
-[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/jcottam/))
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jcottam/)
