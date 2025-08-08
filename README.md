@@ -1,6 +1,6 @@
 # _Build Better. Ship Faster._
 
-Full Stack Engineer & Product Builder | Specializing in Generative AI for Advertising & Custom Automation Workflows
+Full Stack Engineer & Product Builder | Specializing in AI Agents & Automation Workflows
 
 **JavaScript | Python | Generative AI | Automation**
 
