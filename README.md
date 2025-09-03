@@ -11,6 +11,6 @@ Full Stack Engineer & Product Builder | Specializing in AI Agents & Automation W
 ## Background
 Staff Engineer specializing in AI-driven advertising, rapid prototyping, and automation. Over 10 years building scalable systems and delivering high-impact products in cross-functional settings.
 
-At Misfits & Machines, I lead teams to innovate and ship AI solutions. Previously at Amazon, I redesigned publisher onboarding, cutting support time by 50% and driving multi-million-dollar growth. At Stripe, I partnered with enterprise clients to deliver tailored fintech solutions with Stripe Connect. Known for high ownership, usability focus, and measurable business results.
+At [Misfits & Machines](https://misfitsandmachines.com), I lead teams to innovate and ship AI solutions. Previously at [Amazon](https://amazon.com), I redesigned publisher onboarding, cutting support time by 50% and driving multi-million-dollar growth. At [Stripe](https://stripe.com), I partnered with enterprise clients to deliver tailored fintech solutions with Stripe Connect. Known for high ownership, usability focus, and measurable business results.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jcottam/)
