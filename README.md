@@ -1,6 +1,6 @@
-# _Build Better. Ship Faster._
+# Build Better. Ship Faster.
 
-Full Stack Engineer & Product Builder | Specializing in AI Agents & Automation Workflows
+_Full Stack Engineer & Product Builder | Specializing in AI Agents & Automation Workflows_
 
 ## What I Do 
 - JavaScript | Python | Generative AI | Automation
