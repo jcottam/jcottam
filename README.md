@@ -1,6 +1,6 @@
 # Build Better. Ship Faster.
 
-_Full Stack Engineer & Product Builder | Building Advertising, Automation, and AI Solutions_
+Full Stack Engineer & Product Builder | Building Advertising, Automation, and AI Solutions
 
 ## What I Do 
 - JavaScript | Python | Ad Tech | Generative AI | Automation
