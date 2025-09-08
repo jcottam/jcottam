@@ -1,18 +1,25 @@
 # Build Better. Ship Faster.
 
-_Full Stack Engineer & Product Builder | Specializing in AI Agents & Automation Workflows_
+_Full Stack Engineer & Product Builder | Building Advertising, Automation, and AI Solutions_
 
 ## What I Do 
-- JavaScript | Python | Generative AI | Automation
+- JavaScript | Python | Ad Tech | Generative AI | Automation
 - Design and deliver scalable experiences across thousands of domains  
-- Build SDKs, APIs, browser extensions, onboarding systems, and internal tools  
+- Build SDKs, APIs, Chrome extensions, onboarding systems, tools, web apps and websites
 - Translate complex problems into simple, shippable solutions that users love
 
 ## Background
-Staff Engineer specializing in AI-driven advertising, rapid prototyping, and automation. Over 10 years building scalable systems and delivering high-impact products in cross-functional settings.
+Full Stack Engineer and Product Builder with **12+ years of experience** developing custom software, automation workflows, Chrome extensions, and AI solutions across ad tech, fintech, and enterprise platforms. Proven track record of building scalable systems that handle millions in transaction volume and drive measurable business impact.
 
-At [Misfits & Machines](https://misfitsandmachines.com), I lead teams to innovate and ship AI solutions. Previously at [Amazon](https://amazon.com), I redesigned publisher onboarding, cutting support time by 50% and driving multi-million-dollar growth. At [Stripe](https://stripe.com), I partnered with enterprise clients to deliver tailored fintech solutions with Stripe Connect.
+**Core Expertise:** 
+- Full-stack development with focus on scalable architecture and system integration
+- AI implementation and automation workflow design for enterprise applications
+- Ad tech platforms: real-time bidding, display/video/CTV integrations, publisher tools
+- Payment systems and marketplace solutions for high-volume environments
+- Enterprise integrations and custom software development
 
-**Ownership You Can See. Usability You Can Trust. Results You Can Measure.**
+**Recent Impact:**
+- At Amazon, integrated advertising across display, video, and CTV platforms and redesigned publisher onboarding—cut complexity and support time by 50%, driving millions in new growth.
+- At Stripe, built custom payment flows and marketplace solutions for enterprise clients.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jcottam/)
