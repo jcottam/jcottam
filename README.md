@@ -3,7 +3,6 @@
 > Build Better. Ship Faster.
 
 ## What I Do 
-- **Building Advertising, Automation, and AI Solutions**
 - JavaScript | Python | Ad Tech | Generative AI | Automation
 - Design and deliver scalable experiences across thousands of domains  
 - Build SDKs, APIs, Chrome extensions, onboarding systems, tools, web apps and websites
