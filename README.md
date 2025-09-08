@@ -1,8 +1,6 @@
-# Build Better. Ship Faster.
+# Full Stack Engineer & Product Builder
 
-Full Stack Engineer & Product Builder
-
-_Building Advertising, Automation, and AI Solutions_
+Building Advertising, Automation, and AI Solutions
 
 ## What I Do 
 - JavaScript | Python | Ad Tech | Generative AI | Automation
@@ -25,3 +23,5 @@ Full Stack Engineer and Product Builder with **12+ years of experience** develop
 - At **[Stripe](https://stripe.com)**, built custom payment flows and marketplace solutions for enterprise clients.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jcottam/)
+
+_Build Better. Ship Faster._
