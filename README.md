@@ -19,7 +19,7 @@ Full Stack Engineer and Product Builder with **12+ years of experience** develop
 - Enterprise integrations and custom software development
 
 **Recent Impact:**
-- At Amazon, integrated advertising across display, video, and CTV platforms and redesigned publisher onboarding—cut complexity and support time by 50%, driving millions in new growth.
-- At Stripe, built custom payment flows and marketplace solutions for enterprise clients.
+- At **[Amazon](https://aps.amazon.com)**, integrated advertising across display, video, and CTV platforms and redesigned publisher onboarding—cut complexity and support time by 50%, driving millions in new growth.
+- At **[Stripe](https://stripe.com)**, built custom payment flows and marketplace solutions for enterprise clients.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jcottam/)
