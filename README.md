@@ -1,6 +1,6 @@
 # Full Stack Engineer & Product Builder
 
-_Build Better. Ship Faster._
+> Build Better. Ship Faster.
 
 ## What I Do 
 - **Building Advertising, Automation, and AI Solutions**
