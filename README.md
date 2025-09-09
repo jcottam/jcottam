@@ -9,7 +9,7 @@
 - Translate complex problems into simple, shippable solutions that users love
 
 ## Background
-Full Stack Engineer and Product Builder with **12+ years of experience** developing across the stack. Experience with ad tech, payment systems and marketplaces, Chrome extensions, and enterprise integrations handling millions in volume.
+**12+ years of experience** developing across the stack. Experience with ad tech, payment systems and marketplaces, Chrome extensions, and enterprise integrations handling millions in volume.
 
 Leading AI development at **[Misfits & Machines](https://misfitsandmachines.com)** and building a few products of my own.
 
