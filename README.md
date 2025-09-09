@@ -9,9 +9,9 @@
 - Translate complex problems into simple, shippable solutions that users love
 
 ## Background
-Full Stack Engineer and Product Builder with **12+ years of experience** developing custom software, automation workflows, Chrome extensions, and AI solutions across ad tech, fintech, and enterprise platforms. Proven track record of building scalable systems that handle millions in transaction volume and drive measurable business impact.
+Full Stack Engineer and Product Builder with **12+ years of experience** developing across the stack. Experience with ad tech, payment systems and marketplaces, Chrome extensions, and enterprise integrations handling millions in volume.
 
-Leading AI development at **[Misfits & Machines](https://misfitsandmachines.com)** and building a few products of my own in public.
+Leading AI development at **[Misfits & Machines](https://misfitsandmachines.com)** and building a few products of my own.
 
 **Core Expertise:** 
 - Full-stack development with focus on scalable architecture and system integration
