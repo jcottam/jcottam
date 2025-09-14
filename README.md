@@ -9,9 +9,11 @@
 - Translate complex problems into simple, shippable solutions that users love
 
 ## Background
-**12+ years of experience** developing across the stack. Experience with ad tech, payment systems and marketplaces, Chrome extensions, and enterprise integrations handling millions in volume.
+Building AI-Powered Solutions for Ad Tech & Beyond
 
-Leading AI development at **[Misfits & Machines](https://misfitsandmachines.com)** and building a few products of my own.
+I've spent **12+ years** building everything from real-time bidding systems to distributed payment flows that handle millions in volume. Currently leading AI development at **[Misfits & Machines](https://misfitsandmachines.com)** while working on a few products of my own.
+
+I love turning complicated problems into simple solutions.
 
 **Core Expertise:** 
 - Full-stack development with focus on scalable architecture and system integration
