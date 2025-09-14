@@ -9,8 +9,6 @@
 - Translate complex problems into simple, shippable solutions that users love
 
 ## Background
-Building AI-Powered Solutions for Ad Tech & Beyond
-
 I've spent **12+ years** building everything from real-time bidding systems to distributed payment flows that handle millions in volume. Currently leading AI development at **[Misfits & Machines](https://misfitsandmachines.com)** while working on a few products of my own.
 
 I love turning complicated problems into simple solutions.
