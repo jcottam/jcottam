@@ -9,7 +9,7 @@
 - Translate complex problems into simple, shippable solutions that users love
 
 ## Background
-I've spent **12+ years** building across the stack: real-time bidding systems, multi-party payment flows, Chrome extensions that elevate customer and team experiences, and generative AI platforms that amplify creativity. I'm currently leading AI development at **[Misfits & Machines](https://misfitsandmachines.com)** and working on some projects of my own.
+I've spent **12+ years** building across the stack: real-time bidding systems, multi-party payment flows, Chrome extensions that elevate customer and team experiences, and generative AI platforms that amplify creativity. I'm currently leading AI development at [Misfits & Machines](https://misfitsandmachines.com) and working on some projects of my own.
 
 Driven by curiosity and a high-agency mindset, I love turning complicated problems into simple solutions through code and creativity.
 
@@ -21,7 +21,7 @@ Driven by curiosity and a high-agency mindset, I love turning complicated proble
 - Enterprise integrations and custom software development
 
 **Recent Impact:**
-- At **[Amazon](https://aps.amazon.com)**, integrated advertising across display, video, and CTV platforms and redesigned publisher onboarding—cut complexity and support time by 50%, driving millions in new growth.
-- At **[Stripe](https://stripe.com)**, built custom payment flows and marketplace solutions for enterprise clients.
+- At [Amazon](https://aps.amazon.com), integrated advertising across display, video, and CTV platforms and redesigned publisher onboarding—cut complexity and support time by 50%, driving millions in new growth.
+- At [Stripe](https://stripe.com), built custom payment flows and marketplace solutions for enterprise clients.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jcottam/)
