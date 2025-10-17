@@ -16,7 +16,7 @@ I specialize in finding **workflow bottlenecks** and building **automation that 
 
 - **Languages:** TypeScript · Python · HTML · CSS
 - **Frameworks:** React · Node.js · FastAPI · Next.js · Vue · Nuxt · Tailwind  
-- **AI/ML:** LangChain · OpenAI · Anthropic · Google Gemini · ElevenLabs · many more   
+- **AI/ML:** LangChain · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · Upstash Vector · _and many more_
 - **Infra:** Azure · Docker · PostgreSQL · Redis
 
 ### Recent Impact
