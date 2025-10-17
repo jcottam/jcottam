@@ -20,9 +20,9 @@ I specialize in finding **workflow bottlenecks** and building **automation that 
 - **Infra:** Azure · Docker · PostgreSQL · Redis
 
 ### Recent Impact
-- **[Amazon](https://aps.amazon.com):** Integrated advertising across display, video, and CTV platforms while redesigning publisher onboarding—cut complexity and support time by 50%, driving millions in new growth
-- **[Stripe](https://stripe.com):** Built custom payment flows and marketplace solutions for enterprise clients handling serious transaction volume
-- **Custom Tooling:** Developed tools that streamline workflows and elevate both customer and internal team experiences
+- **[Amazon](https://aps.amazon.com):** Streamlined integration of thousands of ad placements across display, video, and CTV surfaces, **reducing complexity by 50% and driving millions in new revenue**.
+- **[Stripe](https://stripe.com):** Engineered **custom payment and marketplace flows** for enterprise clients processing high transaction volumes.
+- **Custom Tooling:** Designed and shipped **internal developer tools** that automated redundant workflows, accelerated customer support, and elevated cross‑team velocity.
 
 ### Connect
 
