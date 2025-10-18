@@ -5,7 +5,9 @@ I build software that blends AI with strong engineering and thoughtful design. M
 
 Before diving deep into AI, I led integration engineering at Amazon and Sharethrough, building ad‑tech platforms that reduced onboarding time, simplified complex integrations, and solved revenue‑critical issues at scale. Along the way, I’ve shipped developer tools, APIs, and secure payment systems that made teams more efficient and reliable.
 
-I love uncovering workflow bottlenecks and building systems that dramatically increase efficiency — whether for startups scaling fast or enterprises modernizing legacy processes.
+I specialize in finding workflow bottlenecks and building systems that dramatically improve efficiency.
+
+Building or scaling? Let's connect.
 
 ### Tech Stack
 
