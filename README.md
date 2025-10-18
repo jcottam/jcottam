@@ -1,16 +1,16 @@
 # Solutions Architect + Full‑Stack Developer  
 > **Identify problems. Engineer solutions. Ship products.**
 
-I build **production‑ready AI agents** that automate customer workflows, content pipelines, and decision-making — systems that run intelligently on their own.  
+I build **production-grade autonomous AI agents** that automate customer workflows and content pipelines with end‑to‑end visibility and security.
 
-Before the AI wave, I focused on building **force multipliers** — tools that made teams faster and products stronger:
+Before the AI wave, I developed ad‑tech integration platforms and force multipliers that delivered real leverage—cutting onboarding time, streamlining publisher integrations, and solving revenue‑critical issues at scale.
 
-- Led an international team of support engineers to streamline troubleshooting  
-- Built browser tools that cut issue resolution time dramatically  
-- Designed and documented enterprise-grade APIs & SDKs  
-- Engineered secure payment systems for marketplace businesses  
+- Led North American integration engineering for Amazon and Sharethrough, helping publishers onboard into programmatic exchanges
+- Built browser tools that cut troubleshooting time and improved developer efficiency across teams 
+- Designed & documented APIs and SDKs powering enterprise partnerships
+- Engineered secure multi‑party payment systems for marketplace businesses
 
-I specialize in finding **workflow bottlenecks** and building **automation that scales** — tools and agents that 10× execution velocity.
+I specialize in finding workflow bottlenecks and building systems that **10× execution speed**—from start‑ups scaling fast to enterprises modernizing legacy processes.
 
 ### Tech Stack
 
@@ -18,11 +18,6 @@ I specialize in finding **workflow bottlenecks** and building **automation that 
 - **Frameworks:** React · Node.js · FastAPI · Next.js · Vue · Nuxt · Tailwind  
 - **AI/ML:** LangChain · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · Upstash Vector · _and many more_
 - **Infra:** Azure · Docker · PostgreSQL · Redis
-
-### Recent Impact
-- **[Amazon](https://aps.amazon.com):** Streamlined integration of thousands of ad placements across display, video, and CTV surfaces, reducing complexity by 50% and driving millions in new revenue.
-- **[Stripe](https://stripe.com):** Engineered custom payment and marketplace flows for enterprise clients processing high transaction volumes.
-- **Custom Tooling:** Designed and shipped internal developer tools that automated redundant workflows, accelerated customer support, and elevated cross‑team velocity.
 
 ### Connect
 
