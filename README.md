@@ -1,16 +1,11 @@
 # Solutions Architect + Full‑Stack Developer  
 > **Identify problems. Engineer solutions. Ship products.**
 
-I build **production-grade autonomous AI agents** that automate customer workflows and content pipelines with end‑to‑end visibility and security.
+I build and ship software that leverages AI — grounded in solid engineering principles. Recently, I’ve been exploring agentic workflows, MCP extensibility, semantic search, and generative systems for advertising and decision‑making. New tech excites me, but first principles, usability, and taste always come first.
 
-Before the AI wave, I developed ad‑tech integration platforms and force multipliers that delivered real leverage—cutting onboarding time, streamlining publisher integrations, and solving revenue‑critical issues at scale.
+Before the AI wave, I led integration engineering for Amazon and Sharethrough, building ad‑tech platforms that cut onboarding time, streamlined publisher integrations, and solved revenue‑critical challenges at scale. I also shipped developer tools, APIs, and secure payment systems that boosted execution speed and enterprise reliability.
 
-- Led North American integration engineering for Amazon and Sharethrough, helping publishers onboard into programmatic exchanges
-- Built browser tools that cut troubleshooting time and improved developer efficiency across teams 
-- Designed & documented APIs and SDKs powering enterprise partnerships
-- Engineered secure multi‑party payment systems for marketplace businesses
-
-I specialize in finding workflow bottlenecks and building systems that **10× execution speed**—from start‑ups scaling fast to enterprises modernizing legacy processes.
+I love turning complex workflows into efficient, scalable systems — whether for startups moving fast or enterprises modernizing legacy infrastructure.
 
 ### Tech Stack
 
