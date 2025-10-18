@@ -1,11 +1,11 @@
 # Solutions Architect + Full‑Stack Developer  
-> **Identify problems. Engineer solutions. Ship products.**
+> **Find problems. Design solutions. Ship and scale.**
 
-I build and ship software that leverages AI — grounded in solid engineering principles. Recently, I’ve been exploring agentic workflows, MCP extensibility, semantic search, and generative systems for advertising and decision‑making. New tech excites me, but first principles, usability, and taste always come first.
+I build software that blends AI with strong engineering and thoughtful design. My current focus is on agentic workflows, MCP extensibility, semantic search, and generative systems that help people make smarter, faster decisions.
 
-Before the AI wave, I led integration engineering for Amazon and Sharethrough, building ad‑tech platforms that cut onboarding time, streamlined publisher integrations, and solved revenue‑critical challenges at scale. I also shipped developer tools, APIs, and secure payment systems that boosted execution speed and enterprise reliability.
+Before diving deep into AI, I led integration engineering at Amazon and Sharethrough, building ad‑tech platforms that reduced onboarding time, simplified complex integrations, and solved revenue‑critical issues at scale. Along the way, I’ve shipped developer tools, APIs, and secure payment systems that made teams more efficient and reliable.
 
-I love turning complex workflows into efficient, scalable systems — whether for startups moving fast or enterprises modernizing legacy infrastructure.
+I love uncovering workflow bottlenecks and building systems that dramatically increase efficiency — whether for startups scaling fast or enterprises modernizing legacy processes.
 
 ### Tech Stack
 
