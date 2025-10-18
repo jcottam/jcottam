@@ -1,5 +1,4 @@
 # Solutions Architect + Full‑Stack Developer  
-> **Find problems. Design solutions. Ship and scale.**
 
 I build software that blends AI with strong engineering and thoughtful design. My current focus is on agentic workflows, MCP extensibility, semantic search, and generative systems that help people make smarter, faster decisions.
 
