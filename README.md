@@ -17,5 +17,6 @@ Whether it's a broken workflow or an untapped capability, I love designing and b
 
 ### Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/jcottam)  
-- 🌍 [Portfolio](https://johnryancottam.com)
+- [LinkedIn](https://linkedin.com/in/jcottam)  
+- [Portfolio](https://johnryancottam.com)
+- [Blog](https://johnryancottam.com/notes)
