@@ -9,9 +9,9 @@ Whether it's a broken workflow or an untapped capability, I love creating system
 ### Tech Stack
 
 - **Languages:** TypeScript · Python · HTML · CSS
-- **Frameworks:** Vue · Nuxt · React · Next.js · Node.js · FastAPI · Tailwind  
-- **AI/ML:** OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · Upstash Vector · LangChain · _and many more_
-- **Infra:** Cloudflare · Azure · Docker · PostgreSQL · Redis · Databricks · Supbabase
+- **Frameworks:** Vue · React · Nuxt · Next.js · Node.js · FastAPI · Tailwind  
+- **AI/ML:** Model Context Protocol · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · LangChain · _and many more_
+- **Infra:** Cloudflare · Azure · Docker · PostgreSQL · Redis · Databricks · Supbabase · Upstash Vector · Weaviate
 
 ### Connect
 
