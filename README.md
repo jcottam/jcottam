@@ -1,12 +1,10 @@
 # Solutions Architect + Full‑Stack Developer  
 
-I design and build systems that blend AI with strong engineering and thoughtful design. My focus is on agentic workflows, MCP extensibility, semantic search, and generative systems that help users (and agents) make smarter, faster decisions.
+Hey, I'm John Ryan — I design and build intelligent systems that blend AI, solid engineering, and thoughtful design.
 
-Before diving into AI, I led integration engineering at Amazon and Sharethrough, scaling global ad-tech integrations, reducing onboarding friction, and solving revenue-critical challenges at scale. I've built developer tools, APIs, and multi-party payment systems that improved reliability and unlocked new efficiencies.
+Before diving deep into AI, I led integration engineering at Amazon and Sharethrough scaling global ad-tech systems, reducing onboarding friction, and solving revenue-critical challenges across large-scale systems. Along the way, I built developer tools, APIs, and payment systems that improved reliability and unlocked new efficiencies.
 
-Today, I'm designing AI-powered marketing and advertising systems with a strong focus on connected TV and audio. I'm integrating generative intelligence, semantic understanding, and automation to create adaptive, high-performing ad content that transforms how campaigns are planned, produced, and scaled.
-
-Whether it's a broken workflow or an untapped capability, I love designing and building systems that move faster, think smarter, and scale better.
+Whether it's a broken workflow or an untapped capability, I love creating systems that move faster, think smarter, and scale better.
 
 ### Tech Stack
 
