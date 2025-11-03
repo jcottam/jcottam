@@ -9,7 +9,7 @@ Whether it's a broken workflow or an untapped capability, I love creating system
 ### Tech Stack
 
 - **Languages:** TypeScript · Python · HTML · CSS
-- **Frameworks:** Vue · React · Nuxt · Next.js · Node.js · FastAPI · Tailwind  
+- **Frameworks:** Vue · React · Astro · Nuxt · Next.js · Node.js · FastAPI · Tailwind  
 - **AI/ML:** Model Context Protocol · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · LangChain · _and many more_
 - **Infra:** Cloudflare · Azure · Docker · PostgreSQL · Redis · Databricks · Supbabase · Upstash Vector · Weaviate
 
