@@ -1,9 +1,7 @@
-# Solutions Architect + Full‑Stack Dev
-Hey, I'm John Ryan — I design and build intelligent systems that blend AI, solid engineering, and thoughtful design.
+# Solutions Architect + Full‑Stack Developer
+I design and build software that helps teams move faster and scale smarter.
 
-Before diving deep into AI, I led integration engineering at Amazon and Sharethrough — scaling global ad-tech systems, reducing onboarding friction, and solving revenue-critical challenges. Being on the front lines with customers taught me how to design better integrations and streamline systems — leading to new developer tools, APIs, and process improvements that boosted reliability and efficiency.
-
-I build systems that help people move faster, think smarter, and scale their impact.
+At Amazon and Sharethrough, I led integration projects that kept global ad-tech systems running at scale while unlocking new revenue streams. Today, I focus on AI-driven tools and scalable systems that amplify how people work. I deliver systems that are technically sound, user-friendly, and strategically aligned.
 
 ### Tech Stack
 
