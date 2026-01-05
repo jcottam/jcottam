@@ -5,10 +5,10 @@ At Amazon and Sharethrough, I led integration projects that kept global ad-tech 
 
 ### Tech Stack
 
-- **Languages:** TypeScript · Python · HTML · CSS
-- **Frameworks:** Vue · React · Astro · Nuxt · Next.js · Node.js · FastAPI · Tailwind  
+- **Languages:** JavaScript · Python · HTML · CSS · SQL · Markdown
+- **Frameworks:** NEXT.js · React · Nuxt · Vue · Astro · Tailwind · Node.js · Hono · FastAPI · Elysia.js  
 - **AI/ML:** Model Context Protocol · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · LangChain · _and many more_
-- **Infra:** Cloudflare · Azure · Docker · PostgreSQL · Redis · Databricks · Supbabase · Upstash Vector · Weaviate
+- **Infra:** Vercel · Cloudflare · Azure · Docker · PostgreSQL · Redis · Databricks · Supbabase · Upstash
 
 ### Connect
 
