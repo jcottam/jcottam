@@ -1,7 +1,8 @@
 # Solutions Architect + Full‑Stack Developer
-I design and build software that helps teams move faster and scale smarter.
 
-At Amazon and Sharethrough, I led integration projects that kept global ad-tech systems running at scale while unlocking new revenue streams. Today, I focus on AI-driven tools and scalable systems that amplify how people work. I deliver systems that are technically sound, user-friendly, and strategically aligned.
+I build things that work. Then I ship them.
+
+I shipped customer-facing systems at Amazon and financial infrastructure at Stripe. The stakes were real. Now I build agentic systems with that same standard — real integrations, real reliability, real UX.
 
 ### Tech Stack
 
