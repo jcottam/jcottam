@@ -1,6 +1,6 @@
 # I build things that work. Then I ship them.
 
-I was responsible for customer-facing systems at Amazon and financial infrastructure at Stripe. The stakes were real. Now I build agentic systems with that same standard — real integrations, real reliability, real UX.
+I built customer-facing systems at Amazon and financial infrastructure at Stripe. The stakes were real. Now I build agentic systems with that same standard — real integrations, real reliability, real UX.
 
 ### Tech Stack
 
