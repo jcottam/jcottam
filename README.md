@@ -13,4 +13,3 @@ I built customer-facing systems at Amazon and financial infrastructure at Stripe
 
 - [LinkedIn](https://linkedin.com/in/jcottam)  
 - [Portfolio](https://johnryancottam.com)
-- [Blog](https://johnryancottam.com/notes)
