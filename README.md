@@ -1,12 +1,12 @@
-# I build things that work. Then I ship them.
+# Full-Stack Engineer | AI-Native | Ex-Amazon, Ex-Stripe | Building Reliable AI Systems
 
-I built customer-facing systems at Amazon and financial infrastructure at Stripe. The stakes were real. Now I build agentic systems with that same standard — real integrations, real reliability, real UX.
+I built advertising systems at Amazon and financial infrastructure at Stripe. The stakes were real. Now I build agentic systems to that same standard — real integrations, real reliability, real UX. The AI is built in, not bolted on.
 
 ### Tech Stack
 
 - **Languages:** JavaScript · Python · HTML · CSS · SQL · Markdown
-- **Frameworks:** NEXT.js · React · Nuxt · Vue · Astro · Tailwind · Node.js · Hono · FastAPI · Elysia.js  
-- **AI/ML:** Model Context Protocol · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · LangChain · _and many more_
+- **Frameworks:** Next.js · React · Astro · Nuxt · Vue · Tailwind · Node.js · Bun · Hono · FastAPI · Elysia.js  
+- **AI/ML:** Model Context Protocol · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · Openclaw · Mastra · _and many more_
 - **Infra:** Vercel · Cloudflare · Azure · Docker · PostgreSQL · Redis · Databricks · Supbabase · Upstash
 
 ### Connect
