@@ -1,5 +1,6 @@
 # Full-Stack Engineer · AI-Native 
-### Ex-Amazon, Ex-Stripe · Building Reliable AI Systems
+
+### Building Reliable AI Systems
 
 I built advertising systems at Amazon and financial infrastructure at Stripe. The stakes were real. Now I build agentic systems to that same standard — real integrations, real reliability, real UX. The AI is built in, not bolted on.
 
