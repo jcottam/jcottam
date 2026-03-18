@@ -14,6 +14,7 @@ Committed to engineering excellence and AI that meaningfully complements product
 - **Frameworks:** Next.js · React · Astro · Nuxt · Vue · Tailwind · Node.js · Bun · Hono · FastAPI · Elysia.js  
 - **AI/ML:** Model Context Protocol · OpenAI · Anthropic · Google Gemini · ElevenLabs · Replicate · Openclaw · Mastra · _and many more_
 - **Infra:** Vercel · Cloudflare · Azure · Docker · PostgreSQL · Redis · Databricks · Supbabase · Upstash
+- **Other:** n8n · Notion · Slack · Discord
 
 ### Connect
 
