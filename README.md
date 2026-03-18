@@ -2,7 +2,11 @@
 
 ### Building Reliable AI Systems
 
-I built advertising systems at Amazon and financial infrastructure at Stripe. The stakes were real. Now I build agentic systems to that same standard — real integrations, real reliability, real UX. The AI is built in, not bolted on.
+15+ years of full-stack engineering. I've worked on advertising systems at Amazon and financial infrastructure at Stripe, where reliability and performance matter. 
+
+Now I'm focused on building agentic AI systems with the same care: solid integrations, dependable reliability, thoughtful UX. AI as foundation, not an add-on. 
+
+Committed to engineering excellence and AI that meaningfully complements product experiences.
 
 ### Tech Stack
 
