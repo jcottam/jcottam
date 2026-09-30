@@ -1,4 +1,4 @@
-**Director of Engineering · Full-Stack · AI-Native**
+# Director of Engineering · Full-Stack · AI-Native
 
 I bring 15+ years of hands-on full-stack engineering experience, including building advertising systems at Amazon and financial infrastructure at Stripe—where reliability and performance matter.
 
